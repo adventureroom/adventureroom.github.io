@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adventure Room&lt;br /&gt;in der HDBA</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Adventure Room&lt;br /&gt;in der HDBA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jun 2018 20:06:44 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Was?</title>
+      <link>http://example.org/was/</link>
+      <pubDate>Tue, 19 Jun 2018 20:06:44 +0200</pubDate>
+      
+      <guid>http://example.org/was/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</description>
+    </item>
+    
+    <item>
+      <title>Wann?</title>
+      <link>http://example.org/wann/</link>
+      <pubDate>Tue, 19 Jun 2018 20:06:44 +0200</pubDate>
+      
+      <guid>http://example.org/wann/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</description>
+    </item>
+    
+    <item>
+      <title>Wie?</title>
+      <link>http://example.org/wie/</link>
+      <pubDate>Tue, 19 Jun 2018 20:06:44 +0200</pubDate>
+      
+      <guid>http://example.org/wie/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</description>
+    </item>
+    
+  </channel>
+</rss>
