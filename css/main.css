@@ -940,6 +940,10 @@ button {
         letter-spacing: 0.2rem;
         font-size: 0.8rem;
         border-bottom: 0; }
+        #header nav ul li a.Registrierung {
+          color: darkred;
+          font-weight: bold;
+        }
         #header nav ul li a:hover {
           background-color: rgba(255, 255, 255, 0.075); }
         #header nav ul li a:active {

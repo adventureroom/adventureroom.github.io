@@ -18,8 +18,8 @@
       
       <guid>http://example.org/was/</guid>
       <description>Du fragst dich was ein Adventure Room ist?
-Du kennst sicher das Modell des Escape Rooms - hierbei wird man in einem Raum eingeschlossen und muss innherhalb einer gewissen Zeit den Schlüssel (oder ähnliches) finden um den Raum wieder verlassen zu können.
-Die Idee des Adventure Rooms ist ähnlich, nur wird hier niemand eingeschlossen! In einem solchen Raum ist das Ziel eine bestimmte Aufgabe in vorgegebener Zeit zu erfüllen.</description>
+Du kennst sicher das Modell des Escape Rooms - hierbei wird man in einem Raum eingeschlossen und muss innerhalb einer gewissen Zeit den Schlüssel (oder ähnliches) finden, um den Raum wieder verlassen zu können.
+Die Idee des Adventure Rooms ist ähnlich, nur wird hier niemand eingeschlossen! In einem solchen Raum ist das Ziel, eine bestimmte Aufgabe in vorgegebener Zeit zu erfüllen.</description>
     </item>
     
     <item>
@@ -38,7 +38,33 @@ Wie ihr euch anmelden könnt erfahrt ihr unter &amp;ldquo;Wie?&amp;rdquo; oder d
       <pubDate>Tue, 19 Jun 2018 20:06:44 +0200</pubDate>
       
       <guid>http://example.org/wie/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</description>
+      <description>--  Wir haben dein Interesse geweckt? Du hast zwei bis vier Freunde mit denen du schon immer mal sowas machen wolltest? Klasse!
+Dann klicke hier und trag dein Team bei eurem Wunschtermin ein. Oder geh zurück auf die Startseite und klicke auf &amp;ldquo;Registrierung&amp;rdquo;.
+Wir freuen uns auf dich und dein Team!</description>
+    </item>
+    
+    <item>
+      <title>Registrierung</title>
+      <link>http://example.org/registrierung/</link>
+      <pubDate>Wed, 20 Jun 2018 19:16:22 +0200</pubDate>
+      
+      <guid>http://example.org/registrierung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>http://example.org/impressum/</link>
+      <pubDate>Wed, 20 Jun 2018 18:32:23 +0200</pubDate>
+      
+      <guid>http://example.org/impressum/</guid>
+      <description>Stephanie Krauß Spitalstr. 19
+69214 Eppelheim
+adventure.hdba@gmail.com
+Disclaimer - rechtliche Hinweise Auskunfts- und Widerrufsrecht
+Sie haben jederzeit das Recht, sich unentgeltlich und unverzüglich über die zu Ihrer Person erhobenen Daten zu erkundigen. Ebenfalls können Sie Ihre Zustimmung zur Verwendung Ihrer angegebenen persönlichen Daten mit Wirkung für die Zukunft widerrufen. Hierfür wenden Sie sich bitte an den im Impressum angegebenen Diensteanbieter.
+Disclaimer (Haftungsausschluss) 1. Haftung für Inhalte
+Als Diensteanbieter sind wir gemäß § 7 Abs.</description>
     </item>
     
   </channel>
