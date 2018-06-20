@@ -5,7 +5,7 @@
     <link>http://example.org/</link>
     <description>Recent content on Adventure Room&lt;br /&gt;in der HDBA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-de</language>
     <lastBuildDate>Tue, 19 Jun 2018 20:06:44 +0200</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,9 @@
       <pubDate>Tue, 19 Jun 2018 20:06:44 +0200</pubDate>
       
       <guid>http://example.org/was/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</description>
+      <description>Du fragst dich was ein Adventure Room ist?
+Du kennst sicher das Modell des Escape Rooms - hierbei wird man in einem Raum eingeschlossen und muss innherhalb einer gewissen Zeit den Schlüssel (oder ähnliches) finden um den Raum wieder verlassen zu können.
+Die Idee des Adventure Rooms ist ähnlich, nur wird hier niemand eingeschlossen! In einem solchen Raum ist das Ziel eine bestimmte Aufgabe in vorgegebener Zeit zu erfüllen.</description>
     </item>
     
     <item>
@@ -26,7 +28,8 @@
       <pubDate>Tue, 19 Jun 2018 20:06:44 +0200</pubDate>
       
       <guid>http://example.org/wann/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</description>
+      <description>Der Adventure Room steht vom 23.07.2018 bis zum 03.08.2018 in der HdBA für euch bereit.
+Wie ihr euch anmelden könnt erfahrt ihr unter &amp;ldquo;Wie?&amp;rdquo; oder direkt über die Schaltfläche &amp;ldquo;Anmeldung&amp;rdquo; auf der Startseite!</description>
     </item>
     
     <item>
