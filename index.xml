@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adventure Room&lt;br /&gt;in der HDBA</title>
-    <link>http://example.org/</link>
+    <link>https://adventureroom.github.io/</link>
     <description>Recent content on Adventure Room&lt;br /&gt;in der HDBA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 19 Jun 2018 20:06:44 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adventureroom.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Was?</title>
-      <link>http://example.org/was/</link>
+      <link>https://adventureroom.github.io/was/</link>
       <pubDate>Tue, 19 Jun 2018 20:06:44 +0200</pubDate>
       
-      <guid>http://example.org/was/</guid>
+      <guid>https://adventureroom.github.io/was/</guid>
       <description>Du fragst dich was ein Adventure Room ist?
 Du kennst sicher das Modell des Escape Rooms - hierbei wird man in einem Raum eingeschlossen und muss innerhalb einer gewissen Zeit den Schlüssel (oder ähnliches) finden, um den Raum wieder verlassen zu können.
 Die Idee des Adventure Rooms ist ähnlich, nur wird hier niemand eingeschlossen! In einem solchen Raum ist das Ziel, eine bestimmte Aufgabe in vorgegebener Zeit zu erfüllen.</description>
@@ -24,20 +24,20 @@ Die Idee des Adventure Rooms ist ähnlich, nur wird hier niemand eingeschlossen!
     
     <item>
       <title>Wann?</title>
-      <link>http://example.org/wann/</link>
+      <link>https://adventureroom.github.io/wann/</link>
       <pubDate>Tue, 19 Jun 2018 20:06:44 +0200</pubDate>
       
-      <guid>http://example.org/wann/</guid>
+      <guid>https://adventureroom.github.io/wann/</guid>
       <description>Der Adventure Room steht vom 23.07.2018 bis zum 03.08.2018 in der HdBA für euch bereit.
 Wie ihr euch anmelden könnt erfahrt ihr unter &amp;ldquo;Wie?&amp;rdquo; oder direkt über die Schaltfläche &amp;ldquo;Anmeldung&amp;rdquo; auf der Startseite!</description>
     </item>
     
     <item>
       <title>Wie?</title>
-      <link>http://example.org/wie/</link>
+      <link>https://adventureroom.github.io/wie/</link>
       <pubDate>Tue, 19 Jun 2018 20:06:44 +0200</pubDate>
       
-      <guid>http://example.org/wie/</guid>
+      <guid>https://adventureroom.github.io/wie/</guid>
       <description>--  Wir haben dein Interesse geweckt? Du hast zwei bis vier Freunde mit denen du schon immer mal sowas machen wolltest? Klasse!
 Dann klicke hier und trag dein Team bei eurem Wunschtermin ein. Oder geh zurück auf die Startseite und klicke auf &amp;ldquo;Registrierung&amp;rdquo;.
 Wir freuen uns auf dich und dein Team!</description>
@@ -45,19 +45,19 @@ Wir freuen uns auf dich und dein Team!</description>
     
     <item>
       <title>Registrierung</title>
-      <link>http://example.org/registrierung/</link>
+      <link>https://adventureroom.github.io/registrierung/</link>
       <pubDate>Wed, 20 Jun 2018 19:16:22 +0200</pubDate>
       
-      <guid>http://example.org/registrierung/</guid>
+      <guid>https://adventureroom.github.io/registrierung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>http://example.org/impressum/</link>
+      <link>https://adventureroom.github.io/impressum/</link>
       <pubDate>Wed, 20 Jun 2018 18:32:23 +0200</pubDate>
       
-      <guid>http://example.org/impressum/</guid>
+      <guid>https://adventureroom.github.io/impressum/</guid>
       <description>Stephanie Krauß Spitalstr. 19
 69214 Eppelheim
 adventure.hdba@gmail.com
